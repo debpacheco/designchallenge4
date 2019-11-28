@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Coiny&display=swap');
+
+.header {
+    font-family: 'Coiny', cursive;
+    padding: 60px;
+    text-align: center;
+    background-color: #5dbcd2;
+}
+
+h1 {
+    /* font-family: 'Coiny' cursive; */
+}
