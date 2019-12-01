@@ -11,6 +11,10 @@ p {
     font-family: 'Advent Pro', sans-serif;
 }
 
+body {
+    font-family: 'Advent Pro', sans-serif;
+}
+
 .wrapper {
     margin: 15px;
     /* background-color: red; */
@@ -28,4 +32,10 @@ p {
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
+  }
+
+  .footer {
+      background-color:  #5dbcd2;
+      height: 100px;
+      text-align: center;
   }
