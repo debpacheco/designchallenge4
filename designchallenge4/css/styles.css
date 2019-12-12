@@ -8,6 +8,10 @@
     color: black;
 }
 
+h3, .description {
+    background-color: #212C6A;
+    padding:60px;
+}
 p {
     font-family: 'Advent Pro', sans-serif;
     color: #328C97;
@@ -18,10 +22,6 @@ body {
     background-color: black;
 }
 
-.wrapper {
-    margin: 15px;
-    background-color: black;
-}
 
 .row {
     display: flex;
@@ -30,15 +30,25 @@ body {
     width: 100%;
 }
 
+.personal_brand {
+    height:350px;
+    padding:30px;
+}
+
+.frontcard, .backcard {
+    padding:30px;
+}
 .column  {
     width: 100%;
     display: flex;
+    text-align: center;
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
     background-color: 5dbcd2;
     color:#5dbcd2;
     display: inline;
+    padding:30px;
     
     
     /* padding-left: px; */
